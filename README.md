@@ -7,10 +7,7 @@ I've included the Figma design as a resource below
 
 `https://www.figma.com/file/3eYlLwePA3GaVmdmkE5G0Z/Javascript-Quote-Generator?node-id=0%3A1`
 
-
-
-
-Technologies used
+<h2>Technologies used</h2>
 1.HTML
 2.CSS
 3.JavaScript
