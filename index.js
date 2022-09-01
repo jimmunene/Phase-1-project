@@ -40,3 +40,10 @@ twitterBtn.addEventListener("click", ()=>{
     window.open(tweetUrl, "_blank");
 });
 
+heartBtn.addEventListener('click', function onclick(){
+    heartBtn.style.backgroundColor = "white"
+    heartBtn.style.color = "red"
+    console.log('you love this')
+})
+
+
