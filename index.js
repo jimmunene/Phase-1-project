@@ -35,3 +35,8 @@ copyBtn.addEventListener("click", ()=>{
     navigator.clipboard.writeText(quoteText.innerText);
 });
 
+twitterBtn.addEventListener("click", ()=>{
+    let tweetUrl = `https://medium.com/intent/medium?url=${quoteText.innerText}`;
+    window.open(tweetUrl, "_blank");
+});
+
