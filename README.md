@@ -25,7 +25,7 @@ email:`ui.ux.jimbrian@gmail.com`
 
 Clone the repository in your local machine,run the index.html file on the browser.make sure server is running to fetch requests
 
-Author : JimBrian
+Author : `jimmunene.github.io`
 
 
 
