@@ -13,6 +13,14 @@ I've included the Figma design as a resource below
 3.JavaScript
 4.Fetch API
 
+<h2>Contributing</h2>
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better,
+
+email:`ui.ux.jimbrian@gmail.com`
+
 Author : JimBrian
 
 
