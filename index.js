@@ -30,3 +30,8 @@ speechBtn.addEventListener("click", ()=>{
         }, 10);
     }
 });
+
+copyBtn.addEventListener("click", ()=>{
+    navigator.clipboard.writeText(quoteText.innerText);
+});
+
