@@ -46,4 +46,4 @@ heartBtn.addEventListener('click', function onclick(){
     console.log('you love this')
 })
 
-
+quoteBtn.addEventListener("click", randomQuote);
