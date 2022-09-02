@@ -21,11 +21,15 @@ If you have a suggestion that would make this better,
 
 email:`ui.ux.jimbrian@gmail.com`
 
+<h2>Live link Hosted on Github Pages</h2>
+
+`https://jimmunene.github.io/phase-1-project/`
+
 <h2>Installation</h2>
 
 Clone the repository in your local machine,run the index.html file on the browser.make sure server is running to fetch requests
 
-Author : `jimmunene.github.io`
+Author : Jim Brian
 
 
 
